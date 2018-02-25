@@ -1,0 +1,213 @@
+body{
+	background-color:#101010;
+	height: 100vh;
+}
+.buttons {
+	width: 100%;
+	
+}
+
+*:focus {outline:none !important}
+
+.playlistMargin {
+	position: relative;
+	margin-bottom: 30px;
+	
+}
+
+.artist {
+	position: absolute;
+	bottom: -1%;
+	margin: 2.5% 25%;
+	
+}
+
+.fave {
+	margin-left: 50%;
+	padding-left: 6%;
+}
+
+#wrapper{
+	
+	margin:10px auto;
+	padding-bottom:3px;
+	
+}
+
+.bgFooter{
+	background-color:white;
+	
+}
+
+.text{
+	color: grey;
+	font-size: 9px;
+	line-height: 5px;	
+}
+
+/*button*/
+#backwardButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/backward.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-top: 1px;
+	
+
+}
+#playButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/play.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+#nextButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/next.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+#randomButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/random.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+#repeatButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/repeat.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+#soundButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/sound.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+
+#favoriteButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/favorite.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	margin-left: 65px;
+
+}
+#playlistButton{
+	background-color:white;
+	border:none;
+	height:40px;
+	width:40px;
+	background-image:url(../img/playlist.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+
+}
+#backwardButton:active,#playButton:active,#nextButton:active,#repeatButton:active,#randomButton:active,#soundButton:active,
+#favoriteButton:active,#playlistButton:active{
+	position:relative;
+	top:.5px;
+	
+	
+}
+
+.sizebutton{
+	height:25px;
+	width:25px;
+	position: center;
+	
+}
+ 
+@media only screen and (min-width: 320px) {
+	.nav {
+		width:101%;
+		background-color: white;
+		position: fixed;
+		bottom: 0;
+		
+	}
+	
+	.album {
+		margin-top: 1.5%;
+		float: right;
+		
+	}
+	
+	
+}
+
+/* #defaultBar{
+	width:640px;
+	position:relative;
+	background-color:#606060;
+	height:10px;
+	
+	
+	
+} */
+
+
+
+@media only screen and (min-width: 375px) {
+	.nav {
+	width:101%;
+	background-color: white;
+	position: fixed;
+	bottom: 0;
+	}
+	
+	.artist_media {
+		position: absolute;
+		bottom: -1%;
+		top: 45%;
+		right: 13%;
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.album {
+		margin-top: 1%;
+		float: right;
+	}
+	
+}
+
+@media screen only and (min-width: 992px) {
+	.nav{
+	width:102.2%;
+	background-color: white;
+	position: fixed;
+	bottom: 0;
+	}
+	
+	.album {
+	margin-top: -10px;;	
+	}
+}
