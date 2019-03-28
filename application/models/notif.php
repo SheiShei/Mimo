@@ -16,7 +16,7 @@ class notif extends CI_Model {
 
 		return $query->result_array();	
 	}
-	public function notif($postid=null){
+	public function notifs($postid=null){
 
 		$this->db->select('posts.user_id AS receiver, post_likes.user_id AS sender')
 				->from('posts')
