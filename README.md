@@ -3,7 +3,7 @@ MimO is a music website designed and developed for the aspiring singers and musi
 
 
 MimO was a milestone of brilliant minds that worked together to complete the said project: <br><br>
-<strong>Man-awit, Sheira C.</strong> (Back-end Developer)<br>
-<strong>Millos, Samantha Joy M.</strong> (Front-end Developer)<br>
-<strong>Sinfuego, Jenella S.</strong> (Back-end Developer)<br>
-<strong>Aberilla, Angelo Jose A.</strong> (Front-end Developer)
+<strong>Man-awit, Sheira C.</strong> (sheishei) (Back-end Developer)<br>
+<strong>Millos, Samantha Joy M.</strong>(sammillos) (Front-end Developer)<br>
+<strong>Sinfuego, Jenella S.</strong>(SinfuegoJenella) (Back-end Developer)<br>
+<strong>Aberilla, Angelo Jose A.</strong>(AngeloJose) (Front-end Developer)
