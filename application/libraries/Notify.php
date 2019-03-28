@@ -12,7 +12,7 @@ class Notify {
                 }
 
                 if ($type==2) {
-                        $temp = $mCI->notif->notif($postid);
+                        $temp = $mCI->notif->notifs($postid);
                         $r = $temp[0]["receiver"];
                         $s = $mCI->login->isLoggedIn();
                         if($r!=$s){
