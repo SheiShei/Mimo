@@ -7,3 +7,13 @@ MimO was a milestone of brilliant minds that worked together to complete the sai
 <strong>Millos, Samantha Joy M.</strong>(sammillos) (Front-end Developer)<br>
 <strong>Sinfuego, Jenella S.</strong>(SinfuegoJenella) (Back-end Developer)<br>
 <strong>Aberilla, Angelo Jose A.</strong>(AngeloJose) (Front-end Developer)
+
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/login.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/MusicHall.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/MyStudio.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/Share-a-thought.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/Upload-Audio.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/Upload-Video.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/Comments.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/AddToPlaylist.png" />
+<img src="https://github.com/SheiShei/mimo/blob/master/MimO-Views/Playlist.png" />
